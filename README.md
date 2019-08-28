@@ -1,2 +1,2 @@
-# terraform
+# aws-terraform
 Repository to hold all terraform resources.
